@@ -6,7 +6,7 @@ export default function Contact() {
         Let’s collaborate or discuss opportunities!
       </p>
       <p className="text-lg">
-        📧 <a href="mailto:tushar@example.com" className="text-blue-600 hover:underline">tushar@example.com</a>
+        📧 <a href="mailto:sharmatushar334work@gmail.com" className="text-blue-600 hover:underline">tushar@example.com</a>
       </p>
       <p className="text-lg mt-2">
         🔗 <a href="https://linkedin.com/in/alphatushar" className="text-blue-600 hover:underline">LinkedIn Profile</a>
