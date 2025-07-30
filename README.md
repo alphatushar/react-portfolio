@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/1ac217a0-42f9-459f-aab2-554c3a510208/deploy-status)](https://app.netlify.com/projects/effulgent-crisp-4285b3/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/b29a3868-9857-4e32-a7d0-c89525d8a5d1/deploy-status)](https://app.netlify.com/projects/resilient-salmiakki-723c36/deploys)
 
 # React + Vite
 
